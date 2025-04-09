@@ -122,7 +122,7 @@ Create a truth table for a **2-bit adder** without carry-in. What are the possib
 
 truth table
 
-
+ 
 
 ---
 
